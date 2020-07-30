@@ -72,3 +72,27 @@ Para todos os desafios abaixo, se esforce para usar o máximo os conceitos de OO
     npm run print teachers
     npm run print students
     ```
+<br><br>
+## Como rodar a aplicação
+
+No terminal, clone o projeto:
+```
+git clone 
+```
+
+Entre na pasta do projeto:
+```
+cd labenuSystem
+```
+
+Instale as dependências:
+```
+npm install
+```
+
+Execute a aplicação:
+```
+npm start 
+```
+
+<br>
